@@ -1,6 +1,5 @@
 import Input from "./components/Input";
 import Button from "./components/Button";
-
 import React, { useState } from "react";
 
 function App() {

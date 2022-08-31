@@ -1,7 +1,7 @@
 function Input({ username, setUsername, password, setPassword }) {
     return (
         <>
-            <h1>Login</h1>
+            <h1>Desafío Estado de los componentes y resultados</h1>
             <label>
                 <input
                     id="username"
