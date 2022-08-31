@@ -12,7 +12,6 @@ function App() {
       <Input username={username} setUsername={setUsername} password={password} setPassword={setPassword} />
       <Button username={username} password={password} />
     </form>
-
   );
 }
 

@@ -8,9 +8,7 @@ function Input({ username, setUsername, password, setPassword }) {
                     type="text"
                     value={username}
                     placeholder="username"
-                    onChange={(e) => {
-                        setUsername(e.target.value);
-                    }}
+                    onChange={(e) => setUsername(e.target.value)}
                 ></input>
             </label>
             <label>
